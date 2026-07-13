@@ -10,6 +10,8 @@ L2, and so on."""
 
 
 def card_shuffle(lst):
+    if len(lst) % 2 != 0:
+        raise ValueError("List must contain an even number of elements.")
     n = len(lst) // 2
 
     # Divide the list into two halves

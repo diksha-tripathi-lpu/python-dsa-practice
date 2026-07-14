@@ -8,3 +8,4 @@ This repository contains my Data Structures and Algorithms practice problems imp
 |----|------------------------------|----------------|
 | 1 | Card Shuffle | 01_card_shuffle |
 | 2 | Card Hand using Positional List ADT | 02_card_hand |
+| 3 | 3D Array Addition | 03_3d_array_addition |
